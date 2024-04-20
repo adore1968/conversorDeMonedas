@@ -1,7 +1,9 @@
 public class ConversionRates {
-    double USD;
-    double ARS;
-    double BRL;
-    double COP;
-
+    public double USD;
+    public double ARS;
+    public double BRL;
+    public double COP;
+    public double EUR;
+    public double CHF;
+    public double JPY;
 }
